@@ -1,0 +1,15 @@
+{
+  "name": "publish-package-skill",
+  "version": "1.0.0",
+  "description": "its a test package build",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/BorisPessano/excercise-publish-package"
+  },
+  "author": "bpessano",
+  "license": "ISC"
+}
