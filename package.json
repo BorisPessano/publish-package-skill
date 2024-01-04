@@ -1,5 +1,5 @@
 {
-  "name": "publish-package-skill",
+  "name": "@borispessano/publish-package-skill",
   "version": "1.0.0",
   "description": "its a test package build",
   "main": "index.js",
@@ -13,6 +13,6 @@
   "author": "bpessano",
   "license": "ISC",
   "publishConfig": {
-      "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
   }
 }
