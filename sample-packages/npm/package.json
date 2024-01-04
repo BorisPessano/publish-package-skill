@@ -1,5 +1,5 @@
 {
-  "name": "BorisPessano/publish-package-skill",
+  "name": "@borispessano/publish-package-skill",
   "version": "1.0.0",
   "description": "its a test package build",
   "main": "index.js",
@@ -11,6 +11,8 @@
     "url": "github.com/BorisPessano/excercise-publish-package"
   },
   "author": "bpessano",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+  }
 }
-
