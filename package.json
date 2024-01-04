@@ -13,6 +13,6 @@
   "author": "bpessano",
   "license": "ISC",
   "publishConfig": {
-    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+    "@borispessano:registry": "https://npm.pkg.github.com"
   }
 }
